@@ -1,0 +1,7 @@
+{
+  "name": "firebase-demo",
+  "private":true,
+  "workspaces": [
+    "androidapp","server","webapp"
+  ]
+}
