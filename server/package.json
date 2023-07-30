@@ -2,7 +2,7 @@
   "name": "firebase-demo",
   "version": "1.0.0",
   "description": "",
-  "main": "dist/src/index.js",
+  "main": "dist/index.js",
   "scripts": {
     "start": "tsc && node dist/index.js",
     "dev": "concurrently \" tsc --watch\" \" nodemon dist/index.js\"  "
